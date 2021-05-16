@@ -26,7 +26,7 @@ SECRET_KEY = '$@jujjpq=g6mxx2mr=1w3gs3a+$b+!@6#*_swy4ucbpstrqg#x'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '13.209.52.111'  # AWS 고정 IP 주소
+    '13.209.52.111',  # AWS 고정 IP 주소
 ]
 
 
